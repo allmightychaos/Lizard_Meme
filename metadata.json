@@ -1,0 +1,5 @@
+{
+  "name": "Lizard Song Player",
+  "description": "A simple, modern web page with a single button that plays the viral TikTok lizard song. It is designed to be mobile and desktop responsive.",
+  "requestFramePermissions": []
+}
